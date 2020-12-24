@@ -1,2 +1,2 @@
-# restful-redis
-redis的RESTful接口
+# restful-nosql
+NoSQL的RESTful接口
